@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-description: The central goal of my research is to explore a way to help people recreate and edit the digital world more easily. My research interests lie at the intersection of Computer Vision, Computer Graphics and XR. This page lists some representative works in <b>generative model</b> and <b>digital human</b>.
+description: Previously, the central goal of my research is to make Artificial Intelligence (AI) systems more and more usable. To ultimately achieve the usability of AI systems, my research focuses on the following two key directions. 1) Learning to perceive the real world to make the perceiving more effective with less supervision and 2) learning to generate/re-create the digital world to make the expressing easier with less human intervention. This page lists some representative work in <b>neural rendering</b>, <b>generative model</b>, <b>human generation</b>, and <b>human perceiving</b>.
 nav: true
 nav_order: 2
-display_categories: [generative model, digital human]
+display_categories: [neural rendering, generative model, human generation, human perceiving]
 horizontal: false
 ---
 
